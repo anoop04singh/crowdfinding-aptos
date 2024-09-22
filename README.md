@@ -31,6 +31,7 @@ The backend of the platform is powered by a smart contract written in the Move l
 
 - **Network**: Aptos
 - **Contract Address**: 0xa8b10ab4bf87b830aa1d6cc7c3e40825f28c0a8eb44ba3b1b2ce64e7fd79eaff
+- **Transaction Hash:** 0x4642c041e78683ea743421692da53e6fc762eb35ebf6fe4e228f53959318318b
 - **Coin Used**: Aptos Coin (APT)
 
 **Getting Started**
