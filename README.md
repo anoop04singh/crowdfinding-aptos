@@ -44,7 +44,7 @@ To get started with this project, follow these steps:
 
 1. **Install Dependencies**: Run npm install to install the necessary dependencies for the React frontend.
 1. **Run Frontend**: Run npm start to start the React application locally.
-1. **Connect Wallet**: Ensure your Aptos-compatible wallet (like Welldone Wallet) is connected to interact with the platform.
+1. **Connect Wallet**: Ensure your Aptos-compatible wallet (like Petra Wallet) is connected to interact with the platform.
 
 **Conclusion**
 
